@@ -1,4 +1,4 @@
-# Javascript + CSS Styling
+# Javascript + CSS Styling + Node.js
 
 - This template provides a good setup for a animated typing logo/title page.
 
